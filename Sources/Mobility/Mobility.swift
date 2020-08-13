@@ -1,9 +1,8 @@
 
-import Commons
 
 public class MobilityService {
 
-    var cms = CommonsService()
+    //var cms = CommonsService()
 
     public init() {
         
@@ -11,7 +10,7 @@ public class MobilityService {
 
     public func getHelloWorld() -> String {
 
-        return "Hello, World! Mobility with \(cms.getStr())"
+        return "Hello, World! Mobility)"
     }
 
     var text = "Hello, World! Mobility"
