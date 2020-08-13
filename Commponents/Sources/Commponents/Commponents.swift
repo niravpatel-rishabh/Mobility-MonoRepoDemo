@@ -1,3 +1,3 @@
 struct Commponents {
-    var text = "Hello, World!"
+    var text = "Hello, World! Commponents"
 }
